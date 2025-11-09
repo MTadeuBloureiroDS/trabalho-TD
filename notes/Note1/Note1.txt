@@ -1,0 +1,24 @@
+OQUE FALTA FAZER?
+
+GAMEPLAY
+{
+	Sistema de spawn mais rapido conforme as waves avançam
+	Polimento de mecanicas
+}
+
+UI
+{
+	UI da vida da base
+	UI da barra de XP
+	UI da vida dos inimigos
+}
+
+
+MENUS
+{
+	MENU INICIAL
+	WIKI
+}
+
+MELHORAR O LAYOUT(OBVIO) COM SPRITES MELHORES
+

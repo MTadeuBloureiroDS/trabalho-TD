@@ -1,0 +1,3 @@
+obj_atiradorPAI.dano = obj_atiradorPAI.original_dano
+obj_atiradorPAI.velTiro = obj_atiradorPAI.original_velTiro
+obj_atiradorPAI.tempo_de_recarga = obj_atiradorPAI.original_Temp_RECARGA

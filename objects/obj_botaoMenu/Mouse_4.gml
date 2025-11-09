@@ -1,0 +1,2 @@
+layer_sequence_create("Transicoes_Layer",0,0,sq_transicao)
+room_goto(Destiny)
